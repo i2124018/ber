@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+img{
+    display: block;
+}
+p{
+    font-size: 10px;
+    line-height: 12px;
+}
+li{
+    list-style: none;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+}
+a:hover{
+    opacity: 0.8;
+}
+header{
+    width: 375px;
+    height: 114px;
+    position: relative;
+}
+.header_backgrounds{
+    width: 375px;
+    height: 114px;
+}
