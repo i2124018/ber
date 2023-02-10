@@ -1,0 +1,34 @@
+body{
+    background-color: #ffffff;
+    width: 375px;
+    margin: 0 auto;
+}
+.icon{
+    width: 150px;
+    margin: 20px auto 38px auto;
+}
+.tweet{
+    width: 228px;
+    margin: 41px auto 20px auto;
+    border-radius: 25px;
+}
+.text_img{
+    height: 50px;
+    margin: 0 auto;
+}
+.text{
+    width: 244px;
+    margin: 0 auto 20px auto
+}
+.text_center{
+    display: block;
+    text-align: center;
+}
+.detail_bottom{
+    display: flex;
+    justify-content: center;
+    gap:92px
+}
+.detail_bottom img{
+    margin: 42px 0  20px 0;
+}
